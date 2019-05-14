@@ -5,7 +5,7 @@ Use Golang to implement PHP's common built-in functions. About 140+ functions ha
 
 ## Install
 ```shell
-go get github.com/syyongx/php2go
+go get github.com/peihuwang/php2go
 ```
 
 ## Requirements
@@ -110,7 +110,7 @@ in_array()
 ```php
 abs()
 rand()
-round() //ĞŞÕı³É¼æÈİphpµÄ
+round() //ÃÃÃ•Ã½Â³Ã‰Â¼Ã¦ÃˆÃphpÂµÃ„
 floor()
 ceil()
 pi()
